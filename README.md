@@ -10,5 +10,7 @@
      
 
 <!--![Mrmagicpie](https://cdn.discordapp.com/avatars/424721524621180930/98777e7bb5681b05bced9c8c66919bdb.webp?size=1024)-->
+
 <p  align="center"><img href="https://cdn.discordapp.com/avatars/424721524621180930/98777e7bb5681b05bced9c8c66919bdb.webp?size=1024"></img></p>
+
 <p align="center"><code>Copyright (c) 2020 Mrmagicpie</code></p>
