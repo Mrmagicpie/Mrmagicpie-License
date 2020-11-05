@@ -59,4 +59,4 @@ Hope you enjoyed this:
 
 <p align="center"><a href="https://license.mrmagicpie.xyz/V1" class="button">Check out V1!</a> <a href="https://license.mrmagicpie.xyz/V2" class="button">Check out V2!</a></p>
 
-<p align="center>COPYRIGHT (c) 2020 Mrmagicpie</p>
+<p align="center">COPYRIGHT (c) 2020 Mrmagicpie</p>
