@@ -1,17 +1,4 @@
-# **IsThicc Company!**
- 
-Check out the new IsThicc website at, 
+<h1 align="center">Mrmagicpie-License V1</h1>
 
- https://isthicc.xyz/. 
-  
-Also check out our subsidaries, 
-
- https://aquahq.net/ 
- 
- https://strawberry-hosting.xyz
-   
-   
-  ![AquaHQ logo](https://api.isthicc.xyz/cdn/an/img/logo.png) 
-  ![SH logo](https://strawberry-hosting.xyz/wp-content/uploads/2020/08/SHSmall-1.png) 
-   
- Copyright (c) 2020 Mrmagicpie
+This page will be updated soon! Sorry about the delay.
+- Mrmagicpie

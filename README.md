@@ -23,7 +23,7 @@ What counts as an actual issue? Below is a list of things considered as a real i
 - Suggestions on how to make this License more appropriate
 - Legal concerns from using this License
 
-Please create an Issue on our GitHub, [here](https://github.com/mrmagicpie/Mrmagicpie-License).
+Please create an Issue on our GitHub, [here](https://github.com/mrmagicpie/Mrmagicpie-License/issues).
 
 <h4>For other issues:</h4>
 

@@ -8,5 +8,14 @@ theme: jekyll-theme-cayman
 #     collections: true
 
 include:
+  # Root Dir
   - CONTRIBUTING.md
   - OLD-README.md
+
+  # V1 Dir
+  - V1/LICENSE.md
+  -
+
+  # V2 Dir
+  - V2/LICENSE.md
+  - V2/TERMS.md
