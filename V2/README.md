@@ -5,4 +5,4 @@ Hey! I'm in the process of rewriting this License. I ask that you please use V1,
 Thank you!
 - Mrmagicpie
 
-COPYRIGHT (c) 2020 Mrmagicpie
+<p align="center">COPYRIGHT (c) 2020 Mrmagicpie</p>
