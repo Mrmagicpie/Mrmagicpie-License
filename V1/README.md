@@ -43,6 +43,6 @@ At this time, V1 contributions will not be accepted **unless** there's a critica
 Hope you enjoyed this:
 - Mrmagicpie
 
-<p align="center"><a href="https://license.mrmagicpie.xyz/V1/Examples" class="button">Examples!</a></p>
+<p align="center"><a href="https://license.mrmagicpie.xyz/V1/Example" class="button">Examples!</a></p>
 
 <p align="center">COPYRIGHT (c) 2020 Mrmagicpie</p>
