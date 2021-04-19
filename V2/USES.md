@@ -8,4 +8,4 @@ This is very important. Remember it!
 
 <h2 align="center">More coming soon!</h2>
 <br>
-<p align="center">Copyright (c) 2020 Mrmagicpie</p>
+<p align="center">Copyright (c) 2020-2021 Mrmagicpie</p>
